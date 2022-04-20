@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
@@ -7,3 +8,14 @@ Thumbs.db
 .hugo_build.lock
 /public/
 /resources/
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+.hugo_build.lock
+/public/
+/resources/
+>>>>>>> 979b4a3e53e5f566215015b9e7609cfc920e9280
