@@ -44,7 +44,7 @@ socials:
 title: about
 ---
 
-**胡平** 天津医科大学骨科硕士
+**胡平** 天津医科大学骨科硕士在读
 
 
 [1]: ahadsfsa.com
